@@ -1,3 +1,15 @@
+
+
+Name, Enrolment No
+Movie dialogue
+
+Tejas Sharma, IIT2022161
+Kitne aadmi the?
+
+Srijan Jain, IIT2022159
+I don't judge people by their worst mistakes
+
+
 Name, Enrolment No
 Movie dialogue
 
@@ -10,5 +22,6 @@ Movie dialogue: Bahubali Jai ho!
 
 Srijan Jain, IIT2022159
 I don't judge people by their worst mistakes
+
 
 
