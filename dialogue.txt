@@ -1,5 +1,3 @@
-
-
 Name, Enrolment No
 Movie dialogue
 
@@ -9,11 +7,6 @@ Kitne aadmi the?
 Srijan Jain, IIT2022159
 I don't judge people by their worst mistakes
 
-
-Name, Enrolment No
-Movie dialogue
-
-
 Shashank Arora, IIT2022502
 Kitne aadmi the?
 
@@ -22,6 +15,3 @@ Movie dialogue: Bahubali Jai ho!
 
 Srijan Jain, IIT2022159
 I don't judge people by their worst mistakes
-
-
-
